@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloMvcApp", "HelloMvcApp\HelloMvcApp.csproj", "{BCE6E519-D00F-40F6-AF28-1F00E57C76EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beltek.EFApp", "Beltek.EFApp\Beltek.EFApp.csproj", "{47D84CAF-7FCD-4367-A7F0-4E86E9AAD350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE6E519-D00F-40F6-AF28-1F00E57C76EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE6E519-D00F-40F6-AF28-1F00E57C76EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE6E519-D00F-40F6-AF28-1F00E57C76EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE6E519-D00F-40F6-AF28-1F00E57C76EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D84CAF-7FCD-4367-A7F0-4E86E9AAD350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D84CAF-7FCD-4367-A7F0-4E86E9AAD350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D84CAF-7FCD-4367-A7F0-4E86E9AAD350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D84CAF-7FCD-4367-A7F0-4E86E9AAD350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B3512EE-02F3-42F8-9926-2764BFE0759C}
+	EndGlobalSection
+EndGlobal
